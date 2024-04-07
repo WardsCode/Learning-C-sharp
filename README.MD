@@ -6,7 +6,7 @@ I used C-sharp to create it thanks to an easy access to classes, which did help 
 
 The main purpose of tis was to understand the concept of Classes and how to use them. I do believe I achieved a new level with C-sharp. I look forward to learn ore of Object Oriented Languages. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3Vi-sRoiYTU)
 
 # Development Environment
 
@@ -24,6 +24,8 @@ The main purpose of tis was to understand the concept of Classes and how to use 
 - [W3 School](https://www.w3schools.com/cs/index.php)
 
 # Future Work
+
+I must fix the .net system in my computer. I couldnt set it up correclty. 
 
 Of course this is a beta of the actual game. It only hold a few situations, later on we`ll add more story. 
 
